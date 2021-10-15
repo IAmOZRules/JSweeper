@@ -29,7 +29,7 @@
     position: absolute;
     top: 30%;
     left: 50%;
-    transform: translate(-50%, -30%);
+    transform: translate(-50%, -32%);
     box-shadow: rgba(0, 0, 0, 0.4) 5px 5px, rgba(0, 0, 0, 0.3) 10px 10px, rgba(0, 0, 0, 0.2) 15px 15px, rgba(0, 0, 0, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
 }
 
@@ -124,9 +124,8 @@
     width: 100vw;
     bottom: 0;
     left: 0;
-    height: 50px;
+    height: 30px;
     padding: 10px;
-    padding-top: 30px;
     margin: auto;
     background-color: rgba(0, 0, 0, 0.5);
     font-weight: bold;
